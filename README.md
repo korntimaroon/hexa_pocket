@@ -5,3 +5,8 @@
 |----------------|-------------|----------|
 | Google Chrome  |     /       |    /     |
 | Safari         |     /       |          |
+| Opera          |     /       |    /     |
+| Brave          |     /       |    /     |
+| Desktop Macos  |     /       |          |
+
+
