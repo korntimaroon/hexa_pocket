@@ -8,5 +8,9 @@
 | Opera          |     /       |    /     |
 | Brave          |     /       |    /     |
 | Desktop Macos  |     /       |          |
+| Desktop Window |     /       |          |
+| Desktop Linux  |     /       |          |
+
+
 
 
