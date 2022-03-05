@@ -4,6 +4,4 @@
 | Browser and OS | Hexa Pocket | Metamask |
 |----------------|-------------|----------|
 | Google Chrome  |     /       |    /     |
-|-|---|--|
 | Safari         |     /       |          |
-|-|---|--|
