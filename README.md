@@ -1,5 +1,7 @@
 # hexa_pocket
 
+# Compaision
+
 
 | Browser and OS | Hexa Pocket | Metamask |
 |----------------|-------------|----------|
@@ -10,7 +12,3 @@
 | Desktop Macos  |     /       |          |
 | Desktop Window |     /       |          |
 | Desktop Linux  |     /       |          |
-
-
-
-
