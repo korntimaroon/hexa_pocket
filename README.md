@@ -12,6 +12,9 @@
 | Desktop Macos  |     /       |          |
 | Desktop Window |     /       |          |
 | Desktop Linux  |     /       |          |
+| Mobile IOS     |     /       |    /     |
+| Mobile Android |     /       |    /     |
+
 
 # Gas Price
 
