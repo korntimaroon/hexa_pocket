@@ -3,18 +3,20 @@
 # Compaision
 
 
-| Browser and OS | Hexa Pocket | Metamask |
-|----------------|-------------|----------|
-| Google Chrome  |     /       |    /     |
-| Safari         |     /       |          |
-| Opera          |     /       |    /     |
-| Brave          |     /       |    /     |
-| Desktop Macos  |     /       |          |
-| Desktop Window |     /       |          |
-| Desktop Linux  |     /       |          |
-| Mobile IOS     |     /       |    /     |
-| Mobile Android |     /       |    /     |
-
+| Browser and OS  | Hexa Pocket | Metamask |
+|-----------------|-------------|----------|
+| Google Chrome   |     /       |    /     |
+| Safari          |     /       |          |
+| Opera           |     /       |    /     |
+| Internet Explorer |/           |     /       |
+| Mozilla Firefox |    /        |    /     |
+| Brave           |     /       |    /     |
+| Desktop Macos   |     /       |          |
+| Desktop Window  |     /       |          |
+| Desktop Linux   |     /       |          |
+| Mobile IOS      |     /       |    /     |
+| Mobile Android  |     /       |    /     |
+ 
 
 # Gas Price
 
