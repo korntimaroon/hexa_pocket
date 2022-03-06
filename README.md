@@ -16,6 +16,7 @@
 | Desktop Linux   |     /       |          |
 | Mobile IOS      |     /       |    /     |
 | Mobile Android  |     /       |    /     |
+| Ipad OS         |     /       |          |
  
 
 # Fee Calculation
