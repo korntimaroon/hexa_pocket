@@ -1,6 +1,6 @@
 # hexa_pocket
 
-# Compaision
+# Comparison
 
 
 | Browser and OS  | Hexa Pocket | Metamask |
@@ -18,8 +18,8 @@
 | Mobile Android  |     /       |    /     |
  
 
-# Gas Price
+# Fee Calculation
 
-In Haxa Pocket we charge you only 2% of gas
+In Haxa Pocket we charge you only 2% per transaction.
 
 
